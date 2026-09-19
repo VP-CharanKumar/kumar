@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fao-soil-2020",
+    "title": "Recarbonizing Global Soils: A Technical Manual of Recommended Management Practices",
+    "organization": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2020,
+    "category": "soil_health",
+    "summary": "Demonstrates that legume-based cover crops, compost integration, and reduced tillage increase soil organic carbon (SOC) by 0.15% to 0.40% annually (15-25% cumulative over 3-5 years) in dryland agricultural soils, directly enhancing water holding capacity and soil biological activity.",
+    "doi_or_url": "https://doi.org/10.4060/ca9668en",
+    "evidence_level": "High (Global Meta-analysis)"
+  },
+  {
+    "id": "ipcc-land-2019",
+    "title": "Special Report on Climate Change, Desertification, Land Degradation, Sustainable Land Management, Food Security, and Greenhouse gas fluxes in Terrestrial Ecosystems",
+    "organization": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2019,
+    "category": "climate_land",
+    "summary": "Reviews sustainable land management strategies in arid and semi-arid lands, showing that continuous monoculture accelerates soil organic matter depletion by 30-50% and heightens susceptibility to desertification under rainfall deficits below 500 mm/year.",
+    "doi_or_url": "https://www.ipcc.ch/srccl/",
+    "evidence_level": "High (Consensus Assessment)"
+  },
+  {
+    "id": "ipbes-pollinators-2016",
+    "title": "Thematic Assessment Report on Pollinators, Pollination and Food Production",
+    "organization": "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)",
+    "year": 2016,
+    "category": "pollinators",
+    "summary": "Details the lethal and sublethal impacts of synthetic neonicotinoids and broad-spectrum insecticides on wild pollinators, noting that non-crop wildflower strips, hedgerows, and reducing pesticide frequency restore pollinator visitation rates by 40-70% within 1-2 seasons.",
+    "doi_or_url": "https://doi.org/10.5281/zenodo.3402964",
+    "evidence_level": "High (Intergovernmental Assessment)"
+  },
+  {
+    "id": "unep-restoration-2021",
+    "title": "Becoming #GenerationRestoration: Ecosystem Restoration for People, Nature and Climate",
+    "organization": "United Nations Environment Programme (UNEP)",
+    "year": 2021,
+    "category": "habitat_restoration",
+    "summary": "Synthesizes landscape connectivity studies showing that establishing ecological corridors between fragmented forest patches reduces isolation barriers, increasing gene flow and resident species richness by 20-35% in degraded landscapes.",
+    "doi_or_url": "https://www.unep.org/resources/ecosystem-restoration-people-nature-climate",
+    "evidence_level": "High (Global Synthesis)"
+  },
+  {
+    "id": "usda-nrcs-covercrops-2021",
+    "title": "Soil Health Technical Note No. 450-06: Cropping Systems and Water Retention",
+    "organization": "USDA Natural Resources Conservation Service (NRCS)",
+    "year": 2021,
+    "category": "soil_health",
+    "summary": "Finds that every 1% increase in soil organic matter in topsoil increases soil available water capacity by approximately 20,000 gallons per acre (187,000 liters per hectare), mitigating dryland crop moisture stress.",
+    "doi_or_url": "https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-health-technical-notes",
+    "evidence_level": "High (Technical Field Guide)"
+  },
+  {
+    "id": "agroforestry-world-2018",
+    "title": "Agroforestry in Drylands: Tree-Crop-Soil Interactions and Biodiversity Conservation",
+    "organization": "World Agroforestry Centre (ICRAF) / CIFOR",
+    "year": 2018,
+    "category": "agroforestry",
+    "summary": "Establishes that integrating drought-resilient nitrogen-fixing trees (e.g., Faidherbia albida, Acacia senegal) in dryland cereal cropping moderates microclimate canopy temperatures by 2-4°C, decreases evaporation, and increases mycorrhizal fungi biomass.",
+    "doi_or_url": "https://www.cifor-icraf.org/publications/agroforestry-drylands",
+    "evidence_level": "High (Peer-Reviewed Meta-analysis)"
+  },
+  {
+    "id": "water-catchment-fao-2019",
+    "title": "Water Harvesting and Soil Moisture Conservation for Smallholder Farmers in Semi-Arid Regions",
+    "organization": "FAO Land and Water Division",
+    "year": 2019,
+    "category": "water_management",
+    "summary": "Documents contour bunding, swales, and mulching in semi-arid zones (300-500 mm rainfall), reporting 30-45% reduction in surface runoff and a 20-30% improvement in deep soil moisture infiltration.",
+    "doi_or_url": "https://doi.org/10.4060/ca6498en",
+    "evidence_level": "Medium-High (Field Validated Trials)"
+  },
+  {
+    "id": "ipbes-global-biodiv-2019",
+    "title": "Global Assessment Report on Biodiversity and Ecosystem Services",
+    "organization": "IPBES Secretariat",
+    "year": 2019,
+    "category": "biodiversity",
+    "summary": "Highlights that habitat fragmentation and agricultural intensification are primary drivers of terrestrial biodiversity loss; mosaic agricultural landscapes with native vegetative boundaries maintain up to 3x higher arthropod and avian species richness than homogeneous monocultures.",
+    "doi_or_url": "https://doi.org/10.5281/zenodo.3831673",
+    "evidence_level": "High (Global Peer-Reviewed Consensus)"
+  }
+]

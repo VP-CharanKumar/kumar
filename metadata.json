@@ -1,0 +1,6 @@
+{
+  "name": "Darukaa.Earth AI Biodiversity Intelligence",
+  "description": "Scientific intelligence system for ecosystems featuring RAG knowledge grounding, multi-metric environmental reasoning, and evidence-backed recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
